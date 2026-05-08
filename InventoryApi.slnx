@@ -1,0 +1,11 @@
+<Solution>
+  <Folder Name="/Elementos de la solución/">
+    <File Path="README.md" />
+  </Folder>
+  <Project Path="InventoryApi.API/InventoryApi.API.csproj" />
+  <Project Path="InventoryApi.Application/InventoryApi.Application.csproj" />
+  <Project Path="InventoryApi.Domain/InventoryApi.Domain.csproj" />
+  <Project Path="InventoryApi.Infrastructure/InventoryApi.Infrastructure.csproj" />
+  <Project Path="InventoryApi.Shared/InventoryApi.Shared.csproj" />
+  <Project Path="InventoryApi.Tests/InventoryApi.Tests.csproj" />
+</Solution>
